@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.splash {
+    height: 100vh;
+
+}
+
+.splashbuttons {
+    vertical-align: baseline;
+}
+
+a.google {
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    background-color: #F28123;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+a.itchio {
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    background-color: #F28123;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
